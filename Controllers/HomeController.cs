@@ -21,7 +21,7 @@ namespace RazorLesson.Controllers {
 
         public ViewResult List() {
             Product[] products = {
-                new Product { Name = "Kayak", Price = 275M },
+                new Product { Name = "Kayak",   Price = 275M },
                 new Product { Name = "Kayak 2", Price = 300M },
             };
 

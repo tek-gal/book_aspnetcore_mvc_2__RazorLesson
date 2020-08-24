@@ -1,0 +1,7 @@
+{
+    "name": "RazorLesson",
+    "private": true,
+    "dependencies": {
+        "bootstrap": "latest"
+    }
+}
